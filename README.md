@@ -1,4 +1,6 @@
 # robofriends
+Use the searchbox to find your robofriend.
+
 To run the project:
 
 1. Clone this repo
